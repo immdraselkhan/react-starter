@@ -3,7 +3,7 @@
 Start quickly with basic structure to build vite react application
 
 ## React Vite
-Documentation -> [Link](https://vitejs.dev/guide){:target="_blank"}
+Documentation -> [Link](https://vitejs.dev/guide)
 
 ## React Router Dom v6.4 
 Documentation Link -> [Link](https://reactrouter.com/en/main/start/overview)
@@ -15,7 +15,9 @@ Documentation Link -> [Link](https://tailwindcss.com/docs)
 
 You may need any of these following resources:
 
-### `Context API` -> [Documentation Link](https://reactjs.org/docs/context.html#api)
+### `Context API`
+
+[Documentation Link](https://reactjs.org/docs/context.html#api)
 
 ### `Heroicon`
 
