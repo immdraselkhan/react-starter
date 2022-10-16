@@ -25,15 +25,14 @@ You may need any of these following resources:
 
 ### `FontAwesome`
 
-#### First of all run these commands to install
-solid, regular & brands for respective icon types
+First of all run these commands to install. The solid, regular & brands is for respective icon types
 ```
 npm i --save @fortawesome/free-solid-svg-icons
 npm i --save @fortawesome/free-regular-svg-icons
 npm i --save @fortawesome/free-brands-svg-icons
 npm i --save @fortawesome/react-fontawesome@latest
 ```
-#### Import in your project
+Finally import in your project file
 ```
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
