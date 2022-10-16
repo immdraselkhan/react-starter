@@ -25,7 +25,7 @@ You may need any of these following resources:
 
 ### `FontAwesome`
 
-#### First of run these commands to install
+#### First of all run these commands to install
 ```
 npm i --save @fortawesome/free-solid-svg-icons
 npm i --save @fortawesome/free-regular-svg-icons
