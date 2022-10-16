@@ -25,13 +25,13 @@ You may need any of these following resources:
 
 ### `FontAwesome`
 
-#### `First of run these commands to install`
+#### First of run these commands to install
 ```
 npm i --save @fortawesome/free-solid-svg-icons
 npm i --save @fortawesome/free-regular-svg-icons
 npm i --save @fortawesome/react-fontawesome@latest
 ```
-#### `Import in your project`
+#### Import in your project
 ```
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
