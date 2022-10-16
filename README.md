@@ -27,14 +27,17 @@ You may need any of these following resources:
 
 #### First of all run these commands to install
 ```
-npm i --save @fortawesome/free-solid-svg-icons
-npm i --save @fortawesome/free-regular-svg-icons
-npm i --save @fortawesome/react-fontawesome@latest
+npm i --save @fortawesome/free-solid-svg-icons <- For solid icons
+npm i --save @fortawesome/free-regular-svg-icons <- For regular icons
+npm i --save @fortawesome/free-brands-svg-icons <- For brands icons
+npm i --save @fortawesome/react-fontawesome@latest <- FontAwesome core
 ```
 #### Import in your project
 ```
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome' <- Required for all
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons' <- When you need solid icons only
+import { faEnvelope } from '@fortawesome/free-regular-svg-icons' <- When you need regular icons only
+import { faTwitter } from '@fortawesome/free-brands-svg-icons' <- When you need brands icons only
 ```
 
 [Documentation Link](https://fontawesome.com/docs/web/use-with/react)
