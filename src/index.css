@@ -2,10 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Add CSS to body */
+
+/* @layer base {
+  body {
+    @apply classes;
+  }
+} */
+
 /* Extracting classes with @apply */
 
-@layer components {
+/* @layer components {
   .classname {
     @apply all-classes-here;
   }
-}
+} */

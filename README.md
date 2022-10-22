@@ -47,6 +47,9 @@ import { faTwitter } from '@fortawesome/free-brands-svg-icons'
 ### `SweetAlert2`
 [Documentation Link](https://github.com/sweetalert2/sweetalert2-react-content)
 
+### `React Toastify`
+[Documentation Link](https://fkhadra.github.io/react-toastify/introduction/)
+
 ### `React Hot Toast`
 [Documentation Link](https://github.com/timolins/react-hot-toast)
 
