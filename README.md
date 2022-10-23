@@ -59,9 +59,6 @@ import { faTwitter } from '@fortawesome/free-brands-svg-icons'
 ### `twin.macro`
 [Github Link](https://github.com/ben-rogerson/twin.macro)
 
-### `twin.macro`
-[Github Link](https://github.com/ben-rogerson/twin.macro)
-
 ### `Recharts`
 [Documentation Link](https://recharts.org/en-US/guide)
 
