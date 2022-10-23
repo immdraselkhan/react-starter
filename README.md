@@ -53,6 +53,9 @@ import { faTwitter } from '@fortawesome/free-brands-svg-icons'
 ### `React Hot Toast`
 [Documentation Link](https://github.com/timolins/react-hot-toast)
 
+### `React Slick(Slider)`
+[Documentation Link](https://react-slick.neostack.com/docs/get-started)
+
 ### `Recharts`
 [Documentation Link](https://recharts.org/en-US/guide)
 
