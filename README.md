@@ -1,11 +1,15 @@
-# Legaltix - Ultimate Individual Legal Services
+# Vite + React Starter Template
+Start quickly with basic structure to build vite react application
 
-This is simple individual legal service review website. I used ReactJS for frontend and NodeJS for backend development. Initially I loaded some services from database. But logged in user can add more services. Regular visitors can see the services but to submit review need to log in.
+#### Update all installed packages
+Simply run the following commands
+```
+npm i -g npm-check-updates
+ncu -u
+npm install
+```
 
-## Live Website - [legaltix.web.app](https://legaltix.web.app)
-Hosted on Google firebase
-
-## Other Resources
+## Resources
 I used the following things in this project.
 
 ### `React Vite`
@@ -16,6 +20,9 @@ I used the following things in this project.
 
 ### `Tailwind CSS`
 [Documentation Link](https://tailwindcss.com/docs)
+
+### `Headless UI`
+[Documentation Link](https://headlessui.com)
 
 ### `Context API`
 [Documentation Link](https://reactjs.org/docs/context.html#api)
@@ -31,4 +38,54 @@ I used the following things in this project.
 
 ### `React Rating`
 [Github Link](https://github.com/dreyescat/react-rating)
+
+### `Recharts`
+[Documentation Link](https://recharts.org/en-US/guide)
+
+## Some Tailwind CSS Components Libray
+
+### `MambaUI`
+[Documentation Link](https://www.mambaui.com/docs)
+
+### `Float UI`
+[Documentation Link](https://www.floatui.com/docs/getting-started)
+
+### `kitwind`
+[Components Link](https://kitwind.io/products/kometa/components)
+
+### `talius`
+[Documentation Link](https://tailus.io/blocks)
+
+### `Tail-kit`
+[Documentation Link](https://www.tailwind-kit.com/started)
+
+### `HyperUI`
+[Components Link](https://www.hyperui.dev)
+
+### `Tailwind Stamps`
+[Components Link](https://tailwindcss.5balloons.info)
+
+### `Tailwind UI kit`
+[Components Link](https://tailwinduikit.com/components)
+
+### `tailwindcomponents`
+[Components Link](https://tailwindcomponents.com)
+
+### `Treact`
+[Website Link](https://treact.owaiskhan.me)
+
+### `Meraki UI`
+[Components Link](https://merakiui.com/components)
+
+### `Tailwind Starter Kit`
+[Website Link](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
+
+### `PostSrc`
+[Components Link](https://postsrc.com/components)
+
+### `Tailblocks`
+[Components Link](https://tailblocks.cc)
+
+### `More Tailwind Components`
+[Github Link](https://github.com/unlight/tailwind-components)
 
