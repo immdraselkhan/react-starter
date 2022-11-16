@@ -1,48 +1,24 @@
-# Vite + React Starter Template
+# Legaltix - Ultimate Individual Legal Services
 
-Start quickly with basic structure to build vite react application
+This is simple individual legal service review website. I used ReactJS for frontend and NodeJS for backend development. Initially I loaded some services from database. But logged in user can add more services. Regular visitors can see the services but to submit review need to log in.
 
-## React Vite
-Documentation -> [Link](https://vitejs.dev/guide)
+## Live Website - [legaltix.web.app](https://legaltix.web.app)
+Hosted on Google firebase
 
-## React Router Dom v6.4 
-Documentation Link -> [Link](https://reactrouter.com/en/main/start/overview)
+## Other Resources
+I used the following things in this project.
 
-## Tailwind CSS
-Documentation Link -> [Link](https://tailwindcss.com/docs)
+### `React Vite`
+[Documentation Link](https://vitejs.dev/guide)
 
-## Some Resources
+### `React Router Dom v6.4`
+[Documentation Link](https://reactrouter.com/en/main/start/overview)
 
-You may need any of these following resources:
+### `Tailwind CSS`
+[Documentation Link](https://tailwindcss.com/docs)
 
 ### `Context API`
-
 [Documentation Link](https://reactjs.org/docs/context.html#api)
-
-### `Heroicon`
-
-[Documentation Link](https://github.com/tailwindlabs/heroicons)
-
-### `FontAwesome`
-
-First of all run these commands to install. The solid, regular & brands is for respective icon types
-```
-npm i --save @fortawesome/react-fontawesome@latest
-
-npm i --save @fortawesome/free-solid-svg-icons
-npm i --save @fortawesome/free-regular-svg-icons
-npm i --save @fortawesome/free-brands-svg-icons
-```
-Finally import in your project file
-```
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-
-import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
-import { faEnvelope } from '@fortawesome/free-regular-svg-icons'
-import { faTwitter } from '@fortawesome/free-brands-svg-icons'
-```
-
-[Documentation Link](https://fontawesome.com/docs/web/use-with/react)
 
 ### `SweetAlert2`
 [Documentation Link](https://github.com/sweetalert2/sweetalert2-react-content)
@@ -50,61 +26,9 @@ import { faTwitter } from '@fortawesome/free-brands-svg-icons'
 ### `React Toastify`
 [Documentation Link](https://fkhadra.github.io/react-toastify/introduction/)
 
-### `React Hot Toast`
-[Documentation Link](https://github.com/timolins/react-hot-toast)
+### `React Icons`
+[Documentation Link](https://react-icons.github.io/react-icons)
 
-### `React Slick(Slider)`
-[Documentation Link](https://react-slick.neostack.com/docs/get-started)
+### `React Rating`
+[Github Link](https://github.com/dreyescat/react-rating)
 
-### `twin.macro`
-[Github Link](https://github.com/ben-rogerson/twin.macro)
-
-### `Recharts`
-[Documentation Link](https://recharts.org/en-US/guide)
-
-## Some Tailwind CSS Components Libray
-
-### `MambaUI`
-[Documentation Link](https://www.mambaui.com/docs)
-
-### `Float UI`
-[Documentation Link](https://www.floatui.com/docs/getting-started)
-
-### `kitwind`
-[Components Link](https://kitwind.io/products/kometa/components)
-
-### `talius`
-[Documentation Link](https://tailus.io/blocks)
-
-### `Tail-kit`
-[Documentation Link](https://www.tailwind-kit.com/started)
-
-### `HyperUI`
-[Components Link](https://www.hyperui.dev)
-
-### `Tailwind Stamps`
-[Components Link](https://tailwindcss.5balloons.info)
-
-### `Tailwind UI kit`
-[Components Link](https://tailwinduikit.com/components)
-
-### `tailwindcomponents`
-[Components Link](https://tailwindcomponents.com)
-
-### `Treact`
-[Website Link](https://treact.owaiskhan.me)
-
-### `Meraki UI`
-[Components Link](https://merakiui.com/components)
-
-### `Tailwind Starter Kit`
-[Website Link](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
-
-### `PostSrc`
-[Components Link](https://postsrc.com/components)
-
-### `Tailblocks`
-[Components Link](https://tailblocks.cc)
-
-### `More Tailwind Components`
-[Github Link](https://github.com/unlight/tailwind-components)
