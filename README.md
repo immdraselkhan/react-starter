@@ -1,13 +1,7 @@
 # Vite + React Starter Template
 Start quickly with basic structure to build vite react application
 
-#### Update all installed packages
-Simply run the following commands
-```
-npm i -g npm-check-updates
-ncu -u
-npm install
-```
+#### Live Website - [URL](URL)
 
 ## Resources
 I used the following things in this project.
