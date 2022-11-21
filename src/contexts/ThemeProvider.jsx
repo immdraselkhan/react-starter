@@ -3,7 +3,7 @@ import React, { createContext, useState } from 'react'
 // Creating context
 export const DarkThemeContext = createContext();
 
-const ThemeContext = ({children}) => {
+const ThemeProvider = ({children}) => {
 
   // Getting system color schema
   const systemTheme = window.matchMedia('(prefers-color-scheme: dark)').matches;
@@ -18,4 +18,4 @@ const ThemeContext = ({children}) => {
   )
 };
 
-export default ThemeContext;
+export default ThemeProvider;
