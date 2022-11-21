@@ -8,7 +8,7 @@ const auth = getAuth(app);
 // Creating Context
 export const AuthContext = createContext();
 
-const UserContext = ({children}) => {
+const AuthProvider = ({children}) => {
 
   // User state
   const [user, setUser] = useState('');
@@ -87,4 +87,4 @@ const UserContext = ({children}) => {
   )
 };
 
-export default UserContext;
+export default AuthProvider;

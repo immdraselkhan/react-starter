@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import { FaGoogle, FaGithub, FaTwitter } from 'react-icons/fa'
 import { Link, Navigate, useNavigate } from 'react-router-dom'
-import { AuthContext } from '../contexts/UserContext'
+import { AuthContext } from '../contexts/AuthProvider'
 import { toast } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.min.css'
 
